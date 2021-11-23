@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 <!--
-**M-Rahaman/M-Rahaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+  
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
