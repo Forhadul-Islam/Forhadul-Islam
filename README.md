@@ -6,6 +6,7 @@
   
 </p>
 
+# Hi guys 👋  I'm Ashfaque Ali
 - 🔭 I’m currently working on fron-end development @coderBiz
 - 🌱 I’m currently learning DSA
 - 🤔 I’m looking for help with ...
